@@ -1,3 +1,3 @@
-# Template
+# Weather App
 
-Repository template
+Simple Weather App
